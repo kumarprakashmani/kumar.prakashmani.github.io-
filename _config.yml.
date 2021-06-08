@@ -1,13 +1,5 @@
 theme: jekyll-theme-modernist
 title: [Python for Data Science]
 description: [A complete python  course]
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+title: [The title of your site]
+description: [A short description of your site's purpose]
