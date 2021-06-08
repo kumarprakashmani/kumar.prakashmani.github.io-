@@ -1,7 +1,6 @@
 theme: jekyll-theme-modernist
-# Header 1
-## Header 2
-### Header 3
+title: [Python for Data Science]
+description: [A complete python  course]
 
 - Bulleted
 - List
